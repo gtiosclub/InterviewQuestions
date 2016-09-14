@@ -16,7 +16,7 @@ func countMonImplicit(numDigits n:Int, startNum s:Int, curDigit c:Int) -> Int {
     return sum
 }
 
-countMon(numDigits: 1)
+countMon(numDigits: 5)
 
 //Explanation:
 //we define the first digit to be the left most digit.
